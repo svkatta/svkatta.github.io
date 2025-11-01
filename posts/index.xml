@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Sandesh Katta Blog</title><link>https://svkatta.github.io/posts/</link><description>Recent content in Posts on Sandesh Katta Blog</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 12:00:00 -0500</lastBuildDate><atom:link href="https://svkatta.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Examples</title><link>https://svkatta.github.io/posts/testblog/</link><pubDate>Wed, 03 Sep 2025 12:00:00 -0500</pubDate><guid>https://svkatta.github.io/posts/testblog/</guid><description>&lt;!-- Method 1: Using HTML with Markdown --&gt;
+&lt;figure&gt;
+&lt;img src="https://svkatta.github.io/imagetest/testimage.jpg" alt="Test Image" width="500" style="max-width: 100%; height: auto;"&gt;
+&lt;figcaption&gt;This is a caption for the test image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!-- Method 2: Using Hugo figure shortcode --&gt;
+&lt;figure&gt;
+&lt;img loading="lazy" src="https://svkatta.github.io/imagetest/testimage.jpg"
+alt="Test Image" width="400"/&gt; &lt;figcaption&gt;
+&lt;p&gt;Another caption using Hugo figure shortcode&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!-- Method 3: Using Markdown with HTML attributes --&gt;
+&lt;p&gt;&lt;img alt="Test Image" loading="lazy" src="https://svkatta.github.io/imagetest/testimage.jpg"&gt;{width=&amp;ldquo;300&amp;rdquo;}&lt;/p&gt;
+&lt;p&gt;$$
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$&lt;/p&gt;</description></item></channel></rss>
